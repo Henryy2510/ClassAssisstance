@@ -1,0 +1,1 @@
+The bot.py file is the main file that run the discord bot, which contains all of the events, command,... While discord.log is supposed to record the process when deploying the bot to discord. Google is supposed to crawl the data in the web we want to assist
